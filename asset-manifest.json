@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ImagePedia/static/css/main.ee1f0d86.chunk.css",
+    "main.css": "/ImagePedia/static/css/main.9eee4ca3.chunk.css",
     "main.js": "/ImagePedia/static/js/main.11b2d359.chunk.js",
     "main.js.map": "/ImagePedia/static/js/main.11b2d359.chunk.js.map",
     "runtime-main.js": "/ImagePedia/static/js/runtime-main.cb238520.js",
@@ -8,13 +8,13 @@
     "static/js/2.67f127ef.chunk.js": "/ImagePedia/static/js/2.67f127ef.chunk.js",
     "static/js/2.67f127ef.chunk.js.map": "/ImagePedia/static/js/2.67f127ef.chunk.js.map",
     "index.html": "/ImagePedia/index.html",
-    "static/css/main.ee1f0d86.chunk.css.map": "/ImagePedia/static/css/main.ee1f0d86.chunk.css.map",
+    "static/css/main.9eee4ca3.chunk.css.map": "/ImagePedia/static/css/main.9eee4ca3.chunk.css.map",
     "static/js/2.67f127ef.chunk.js.LICENSE.txt": "/ImagePedia/static/js/2.67f127ef.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.cb238520.js",
     "static/js/2.67f127ef.chunk.js",
-    "static/css/main.ee1f0d86.chunk.css",
+    "static/css/main.9eee4ca3.chunk.css",
     "static/js/main.11b2d359.chunk.js"
   ]
 }
