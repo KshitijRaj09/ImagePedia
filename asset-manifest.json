@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/ImagePedia/static/css/main.ee1f0d86.chunk.css",
-    "main.js": "/ImagePedia/static/js/main.a91d76f1.chunk.js",
-    "main.js.map": "/ImagePedia/static/js/main.a91d76f1.chunk.js.map",
+    "main.js": "/ImagePedia/static/js/main.11b2d359.chunk.js",
+    "main.js.map": "/ImagePedia/static/js/main.11b2d359.chunk.js.map",
     "runtime-main.js": "/ImagePedia/static/js/runtime-main.cb238520.js",
     "runtime-main.js.map": "/ImagePedia/static/js/runtime-main.cb238520.js.map",
-    "static/js/2.bd5a8a33.chunk.js": "/ImagePedia/static/js/2.bd5a8a33.chunk.js",
-    "static/js/2.bd5a8a33.chunk.js.map": "/ImagePedia/static/js/2.bd5a8a33.chunk.js.map",
+    "static/js/2.67f127ef.chunk.js": "/ImagePedia/static/js/2.67f127ef.chunk.js",
+    "static/js/2.67f127ef.chunk.js.map": "/ImagePedia/static/js/2.67f127ef.chunk.js.map",
     "index.html": "/ImagePedia/index.html",
     "static/css/main.ee1f0d86.chunk.css.map": "/ImagePedia/static/css/main.ee1f0d86.chunk.css.map",
-    "static/js/2.bd5a8a33.chunk.js.LICENSE.txt": "/ImagePedia/static/js/2.bd5a8a33.chunk.js.LICENSE.txt"
+    "static/js/2.67f127ef.chunk.js.LICENSE.txt": "/ImagePedia/static/js/2.67f127ef.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.cb238520.js",
-    "static/js/2.bd5a8a33.chunk.js",
+    "static/js/2.67f127ef.chunk.js",
     "static/css/main.ee1f0d86.chunk.css",
-    "static/js/main.a91d76f1.chunk.js"
+    "static/js/main.11b2d359.chunk.js"
   ]
 }
